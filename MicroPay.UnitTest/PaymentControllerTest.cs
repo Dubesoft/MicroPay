@@ -12,8 +12,10 @@ namespace MicroPay.UnitTest
     [TestClass]
     public class PaymentControllerTest
     {
+        //evans.okosodo@gmail.com
+        //username: DavidEhigiator
+        //blevando
 
-      
         [TestMethod]
         public void Check_If_ProcessPayment_Returns_Null(PaymentDto pay)
         {
